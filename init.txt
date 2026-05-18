@@ -1,0 +1,25 @@
+sheikh-mohammad@sheikh-mohammad-laptop:~/Documents/code$ npx create-docusaurus@latest javascript-and-jquery-jon-duckett classic
+✔ Which language do you want to use? › JavaScript
+[INFO] Creating new Docusaurus project...
+[INFO] Installing dependencies with npm...
+[SUCCESS] Created javascript-and-jquery-jon-duckett.
+[INFO] Inside that directory, you can run several commands:
+
+  `npm start`
+    Starts the development server.
+
+  `npm run build`
+    Bundles your website into static files for production.
+
+  `npm run serve`
+    Serves the built website locally.
+
+  `npm run deploy`
+    Publishes the website to GitHub pages.
+
+We recommend that you begin by typing:
+
+  `cd javascript-and-jquery-jon-duckett`
+  `npm start`
+
+Happy building awesome websites!
